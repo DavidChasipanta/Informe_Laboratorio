@@ -3,11 +3,11 @@
 
 1.OBJETIVOS
 
-Objtivo  Gener 
+Objtivo  General 
 
 * Conocer  sobree las cantidades y unidades, voltaje y resistes mediante  la utilización del libro de Floyd  "Principios de Circuitos Eléctricos".
 
-Ojetivo Especificos
+Ojetivo Especifico
 
 * Redactar los capitulos uno y dos del libro de  Floyd "Principios de Circuitos Eléctricos",para comprender los temas  descritos de una mejor manera .
 * Utilizar los conocimientos adquiridos para la resolucion de los  ejercicios propuestos por el libro de Floyd   "Principios de Circuitos Eléctricos".
