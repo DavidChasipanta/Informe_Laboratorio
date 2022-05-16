@@ -5,7 +5,7 @@
 
 Objtivo  General 
 
-* Conocer  sobree las cantidades y unidades, voltaje y resistes mediante  la utilización del libro de Floyd  "Principios de Circuitos Eléctricos".
+* Conocer  sobre las cantidades y unidades, voltaje y resistes mediante  la utilización del libro de Floyd  "Principios de Circuitos Eléctricos".
 
 Ojetivo Especifico
 
@@ -51,7 +51,7 @@ Ojetivo Especifico
 
 * 1/500 = 2 x 10^-3
 * 1/2000 =  5 x 10^-4
-*  1/5,000,000 =2x10^-1
+* 1/5,000,000 =2x10^-1
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
@@ -80,3 +80,5 @@ Ojetivo Especifico
 10. Efectúe las siguientes sustracciones:
 
 (a) (3.2x10^12)-(1.1x10^12) (b) (2.6x10^8)-(1.3x10^7) (c) (1.5x10^-12)-(8x10^-13)
+
+*
