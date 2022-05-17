@@ -118,9 +118,9 @@ Ojetivo Especifico
 
 (a) 31x10^-3 A (b) 5.5x10^3 V (c) 20x10^-12 F
 
-* 31x10^-3 A = 89 kΩ
-* 5.5x10^3 V = 450 kΩ
-* 20x10^-12 F = 12.04 TΩ
+* 31x10^-3 A = 31mA
+* 5.5x10^3 V = 5.5 kV
+* 20x10^-12 F = 20 pF
 
 26. Exprese cada cantidad en notación de ingeniería:
 
@@ -173,43 +173,55 @@ a través del resistor?
 
 (a) 75C en 1s (b) 10C en 0.5s (c) 5C en 2s
 
-*
-*
-*
+* I= Q/t  ⇒  75C/1s = 75A 
+* I= Q/t  ⇒  10C/0,5s = 20A 
+* I= Q/t  ⇒  5C/2s= 2,5A 
 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-*
+* I=  Q/t  despejo la fórmula para T 
+t= Q/I 
+t= Q/I⇒  10C/5A = 2s 
 
 14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
-*
+*![image](https://user-images.githubusercontent.com/105617383/168813597-cb23c8f5-982d-4c5f-8ee1-a69be0159b0a.png)
 
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 
 (a) 0.1S (b) 0.5S (c) 0.02S
 
-*
-*
-*
+* R= 1/G ⇒1/0,1= 10Ω 
+* R= 1/G ⇒1/0,5= 2Ω
+* R= 1/G ⇒1/0,02= 50Ω
 
 **Sección 2 – 4 Fuentes de voltaje y de corriente**
 
 18. ¿En qué principio se basan los generadores eléctricos?
 
-*
+* Inducción electromagnética
 
 20. Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω,
 ¿cuál es la corriente en la carga?
 
-*
+*![image](https://user-images.githubusercontent.com/105617383/168813827-ac835d6c-a2dc-4fa5-8486-33a00bba7f37.png)
 
 **Sección 2 – 5 Resistores**
 
-22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
-problema 21.
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
-*
+* (a) 27kΩ±5% 
+
+27000*0.05=135Ω ⇒27000+135=27135Ω máxima 
+
+27000*0.05=135Ω ⇒27000-135=26865Ω mínima 
+
+* (b) 1.8kΩ±10% 
+
+1800*0.1=180Ω ⇒1800+180=1980Ω máxima 
+
+1800*0.1=180Ω ⇒1800-180=1640Ω mínima 
+
 
 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
@@ -289,8 +301,7 @@ https://www.youtube.com/watch?v=As_wKe1LpWE
 
 * Como conclusión, existen dos unidades de medición, las fundamentales que se siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.La notación de ingeniería es importante en los campos técnicos, específicamente en electrónica se usa para representar valores de voltaje, corriente, potencia, resistencia, entre otros. Esta está relacionada con los prefijos métricos que son usados exclusivamente con números que tienen una unidad de medida como volts o amperes, como ejemplos de prefijos se tiene mili, kilo, mega, entre otros. Convertir unidades es fundamental puesto que muchas veces es necesario convertir la cantidad de una unidad que tiene un prefijo métrico a otra. 
 * Un circuito necesita tener al menos una resistencia para que no se genere un cortocircuito, y el código de colores es clave para saber que resistor agregar al circuito según la fuente de voltaje.
-* Al utilizar un instrumento de medición se debe tener un previo conocimiento de cómo se debe conectar al circuito para saber una medida en particular y para el cuidado del dispositivo se debe tener en cuenta la cantidad de voltaje que aguanta para no dañar el equipo.
-* Al realizar trabajos con circuitos es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
+* Es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
 * Se llegó a la conclusión que la relación de voltaje, corriente y resistencia es bastante útil ya que si se emplea adecuadamente los conocimientos teóricos en este caso la ley de Ohm se puede dar solución a los requerimientos que se tengan, esto sirve para corroborar la importancia y la utilidad que una fuente variable tiene en la mayoría de los circuitos eléctricos.
 
 6. BIBLIOGRAFÍA
