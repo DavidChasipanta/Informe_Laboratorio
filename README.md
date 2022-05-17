@@ -17,17 +17,11 @@ Ojetivo Especifico
 ![image](https://user-images.githubusercontent.com/105617383/168680682-85939092-77cf-48f4-b26d-80bb11362eae.png)
 ![image](https://user-images.githubusercontent.com/105617383/168731958-cb7de2f4-1236-4a36-8885-dd29bfbba2d3.png)
 ![image](https://user-images.githubusercontent.com/105617383/168741546-ba91e7cc-086e-453f-b7b0-a51609420a25.png)
-
- 
-   
+![image](https://user-images.githubusercontent.com/105617383/168798768-e4ecc2ce-5b9e-4dde-bbc4-3acb1d94a331.png) 
 ![image](https://user-images.githubusercontent.com/105617383/168725465-6bb525f2-c306-4e5b-8252-40740b7e2460.png)
 ![image](https://user-images.githubusercontent.com/105617383/168726661-0f33e945-13ac-46aa-9d2b-8deba1d1aa36.png)
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105617383/168799688-123a285b-3197-48fc-8137-6b05c2cc3231.png)
+![image](https://user-images.githubusercontent.com/105617383/168799519-bb9b2d3a-2512-41b6-abdd-2dd2cfe05251.png)
 
 
 
@@ -160,16 +154,16 @@ Ojetivo Especifico
 
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
-*
+*![image](https://user-images.githubusercontent.com/105617383/168800412-8d88b2cc-46ab-4d40-a22a-59626ff851a4.png)
 
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
-*
+* 6,25 x 10^18x80 = 5 x 10^20 mC 
 
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
 a través del resistor?
 
-*
+*![image](https://user-images.githubusercontent.com/105617383/168800593-dedad03b-ab9d-43c3-98e1-4f38876f3144.png)
 
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
@@ -223,11 +217,18 @@ problema 21.
 (b) verde, café, verde, plata
 (c) azul, gris, negro, oro
 
+* Solución: 10Ω ± 5% 
+* Solución: 5100000Ω ± 10% 
+* Solución: 68Ω ± 5% 
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 
 (a) rojo, gris, violeta, rojo, café
 (b) azul, negro, amarillo, oro, café
 (c) blanco, naranja, café, café, café
+
+* Solución: 27,8kΩ ± 1% 
+* Solución: 60,4kΩ ± 1% 
+*Solución: 9,31kΩ ± 1% 
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
 resistencia total es de 1000Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
@@ -282,11 +283,15 @@ presente en la figura 2-70.
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=As_wKe1LpWE
 
 5. CONCLUSIONES
 
-
+* Como conclusión, existen dos unidades de medición, las fundamentales que se siete unidades fundamentales y dos unidades complementarias, por otro lado, existen las unidades derivadas, las cuales son utilizadas por las unidades eléctricas y magnéticas. De igual manera la notacion científica es de suma importancia puesto que va a ayudar a representar numeros muy grandes o muy pequeños para posteriormente poder realizar calculos con estos.La notación de ingeniería es importante en los campos técnicos, específicamente en electrónica se usa para representar valores de voltaje, corriente, potencia, resistencia, entre otros. Esta está relacionada con los prefijos métricos que son usados exclusivamente con números que tienen una unidad de medida como volts o amperes, como ejemplos de prefijos se tiene mili, kilo, mega, entre otros. Convertir unidades es fundamental puesto que muchas veces es necesario convertir la cantidad de una unidad que tiene un prefijo métrico a otra. 
+* Un circuito necesita tener al menos una resistencia para que no se genere un cortocircuito, y el código de colores es clave para saber que resistor agregar al circuito según la fuente de voltaje.
+* Al utilizar un instrumento de medición se debe tener un previo conocimiento de cómo se debe conectar al circuito para saber una medida en particular y para el cuidado del dispositivo se debe tener en cuenta la cantidad de voltaje que aguanta para no dañar el equipo.
+* Al realizar trabajos con circuitos es necesario conocer las medidas de seguridad para no ocasionar daños al entorno y a la persona misma como un ejemplo es la conexión tierra en tierra es necesaria para dispersar el exceso de voltaje que pudiera haber.
+* Se llegó a la conclusión que la relación de voltaje, corriente y resistencia es bastante útil ya que si se emplea adecuadamente los conocimientos teóricos en este caso la ley de Ohm se puede dar solución a los requerimientos que se tengan, esto sirve para corroborar la importancia y la utilidad que una fuente variable tiene en la mayoría de los circuitos eléctricos.
 
 6. BIBLIOGRAFÍA
 
